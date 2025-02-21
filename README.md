@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile](/public/ecommerce-product-page-mobile.png)
-![Desktop](/public/ecommerce-product-page-desktop.png)
+![Mobile](/public/ecommerce-product-page-mobile.png?raw=true)
+![Desktop](/public/ecommerce-product-page-desktop.png?raw=true)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/rom-ch/E-commerce-product-page](https://github.com/rom-ch/E-commerce-product-page)
+- Live Site URL: [https://romch-ecommerce-product-page.netlify.app/](https://romch-ecommerce-product-page.netlify.app/)
 
 ## My process
 

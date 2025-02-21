@@ -44,7 +44,7 @@ export function Carousel({ onOpenModal, isOpenModal }) {
         <img
           src={productImg.at(imageIndex).img}
           alt="#"
-          className="h-full w-full object-cover object-top lg:rounded-2xl"
+          className={`h-full w-full object-cover object-top lg:rounded-2xl ${!isOpenModal ? "lg:cursor-pointer" : ""}`}
           onClick={onOpenModal}
         />
         <button

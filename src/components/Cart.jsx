@@ -4,7 +4,7 @@ export function Cart() {
   const { cart, emptyCart } = useCart();
 
   return (
-    <div className="divide-secondary-100 absolute inset-x-2 top-22 z-100 flex h-64 flex-col divide-y-2 rounded-xl bg-white shadow-xl sm:inset-auto sm:top-22 sm:right-2 sm:w-[360px]">
+    <div className="divide-secondary-100 absolute inset-x-2 top-22 z-100 flex h-64 flex-col divide-y-2 rounded-xl bg-white shadow-xl sm:inset-auto sm:top-22 sm:right-2 sm:w-[360px] lg:top-20 lg:right-24 2xl:right-32">
       <h2 className="px-6 py-4 text-lg font-semibold">Cart</h2>
       <div className="flex flex-grow items-center justify-center">
         {cart > 0 ? (
